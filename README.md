@@ -70,7 +70,7 @@ Share documentation for users and administrators.
 `npm run dev`
 ## Embeddable Link
 
-'https://embeddables.testnet.andromedaprotocol.io/galileo-4/HealthRecordManagementSystem'
+https://embeddables.testnet.andromedaprotocol.io/galileo-4/HealthRecordManagementSystem
 
 
 
